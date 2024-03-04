@@ -1,11 +1,11 @@
-import React from 'react';
+import React from "react";
 
 const ArticlePage = () => {
-    return (
-        <div>
-            <h1>Article page</h1>
-        </div>
-    );
+  return (
+    <div>
+      <h1>Article page</h1>
+    </div>
+  );
 };
 
 export default ArticlePage;
