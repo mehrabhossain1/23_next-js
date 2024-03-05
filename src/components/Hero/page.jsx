@@ -8,7 +8,7 @@ const HeroComponent = () => {
         <div className="flex flex-col md:flex-row items-center md:space-x-8">
           <div className="relative rounded-full overflow-hidden w-48 h-48 md:w-64 md:h-64">
             <Image
-              src="/public/images/userImg.png"
+              src="/images/userImg.png"
               className="profile-img"
               layout="fill"
               objectFit="cover"
@@ -17,12 +17,12 @@ const HeroComponent = () => {
           </div>
           <div className="md:w-1/2">
             <h1 className="text-4xl md:text-5xl font-bold mb-4">
-              Hey, I'm Mehrab Hossain 👋
+              Hey, I&apos;m Mehrab Hossain 👋
             </h1>
             <p className="text-lg mb-6">
-              I'm a software developer based in Lagos, Nigeria. I specialize in
-              building (and occasionally designing) exceptional websites,
-              applications, and everything in between.
+              I&apos;m a software developer based in Lagos, Nigeria. I
+              specialize in building (and occasionally designing) exceptional
+              websites, applications, and everything in between.
             </p>
             <div className="flex space-x-4">
               <a
