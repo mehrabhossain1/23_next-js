@@ -3,7 +3,7 @@ import React from "react";
 
 const HeroComponent = () => {
   return (
-    <div className="bg-gray-900 text-white">
+    <div className="bg-gray-900 text-white ">
       <div className="container mx-auto flex items-center justify-center h-screen">
         <div className="flex flex-col md:flex-row items-center md:space-x-8">
           <div className="relative rounded-full overflow-hidden w-48 h-48 md:w-64 md:h-64">
