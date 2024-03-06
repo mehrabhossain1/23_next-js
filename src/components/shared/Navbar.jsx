@@ -63,6 +63,9 @@ const Navbar = () => {
                   <Link href={"/dashboard/admin"}>Admin Dashboard</Link>
                 </li>
                 <li>
+                  <Link href={"/bashboard/atmin"}>Atmin Bashboard</Link>
+                </li>
+                <li>
                   <Link href={"/dashboard/user"}>User Dashboard</Link>
                 </li>
               </ul>
